@@ -11,6 +11,7 @@ Run node.js and type .help
 
 # Config (make sure to set keys!)
 Path: ``%appdata%/.matankify/config``
+
 Set the content to:
 ```
 Pug=YOUR_PUG_API_KEY
