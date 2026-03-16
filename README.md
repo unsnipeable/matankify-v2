@@ -18,3 +18,8 @@ Pug=YOUR_PUG_API_KEY
 Urchin=YOUR_URCHIN_API_KEY
 ```
 Then restart the app
+
+# support
+[My server](https://discord.gg/6vPUW7HaGD)
+
+unsnipeable (1260479523972059210)
