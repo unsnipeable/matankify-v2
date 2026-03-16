@@ -7,9 +7,9 @@ Matankify API (client-side API for Cubelify)
 [Urchin API Key](https://discord.gg/zmzGx3Hr8M): /dashboard
 
 # How to use
-Run node.js and type .help
+Set the key and type .help
 
-# Config (make sure to set keys!)
+# Config
 Path: ``%appdata%/.matankify/config``
 
 Set the content to:
