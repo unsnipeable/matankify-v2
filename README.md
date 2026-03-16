@@ -1,5 +1,6 @@
 # matankify-v2
 Matankify API (client-side API for Cubelify)
+v1 is no longer available to download.
 
 # Requirements
 [Pug API Key](https://discord.gg/xb9R655xJ2): /api-key
@@ -26,4 +27,4 @@ Then restart the app
 unsnipeable (1260479523972059210)
 
 
--# v1 is no longer available to download.
+
