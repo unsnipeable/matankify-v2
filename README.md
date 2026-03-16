@@ -17,6 +17,7 @@ Set the content to:
 Pug=YOUR_PUG_API_KEY
 Urchin=YOUR_URCHIN_API_KEY
 ```
+(Make sure to replace them to your valid keys)
 Then restart the app
 
 # support
