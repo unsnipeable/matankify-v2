@@ -24,3 +24,6 @@ Then restart the app
 [My server](https://discord.gg/6vPUW7HaGD)
 
 unsnipeable (1260479523972059210)
+
+
+-# v1 is no longer available to download.
