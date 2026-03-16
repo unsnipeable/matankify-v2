@@ -1,5 +1,5 @@
 # matankify-v2
-Matankify API (client-side API for Cubelify)
+client-side API for Cubelify
 v1 is no longer available to download.
 
 # Requirements
